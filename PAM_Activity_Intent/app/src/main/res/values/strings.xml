@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PAM_Activity_Intent</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="title_activity_sign_up_activiity">SignUpActiviity</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="username">Username</string>
+    <string name="konfirmpass">Password Confirmation</string>
+    <string name="signup">Signup</string>
+</resources>
